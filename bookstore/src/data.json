@@ -1,205 +1,227 @@
 {
     "products": [
-        {
-            "id": "1",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"23.50",
-            "pages": "472",
-             "ISBN":"",
-            "description": "lop",
-            "cover": "/images/BookCover1.jpg"
-          },
-          {
-            "id": "2",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"24",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover2.jpg"
-          },
-          {
-            "id": "3",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"26",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover3.jpg"
-          },
-          {
-            "id": "4",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"27",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover4.jpg"
-          },
-          {
-            "id": "5",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"23",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover5.jpg"
-          },
-          {
-            "id": "6",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"24",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover6.jpg"
-          },
-          {
-            "id": "7",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"26",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover7.jpg"
-          },
-          {
-            "id": "8",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"23",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover8.jpg"
-          },
-          {
-            "id": "9",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"24",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover9.jpg"
-          },
-          {
-            "id": "10",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"26",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover10.jpg"
-          },
-          {
-            "id": "11",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"23",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover11.jpg"
-          },
-          {
-            "id": "12",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"24",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover12.jpg"
-          },
-          {
-            "id": "13",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"26",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover13.jpg"
-          },
-          {
-            "id": "14",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"27",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover14.jpg"
-          },
-          {
-            "id": "15",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"23",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover15.jpg"
-          },
-          {
-            "id": "16",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"24",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover16.jpg"
-          },
-          {
-            "id": "17",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"26",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover17.jpg"
-          },
-          {
-            "id": "18",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"23",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover18.jpg"
-          },
-          {
-            "id": "19",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"24",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover19.jpg"
-          },
-          {
-            "id": "20",
-            "title": "Agile Web Development with Rails",
-            "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
-            "price":"26",
-            "pages": "472",
-             "ISBN":"",
-            "description": "",
-            "cover": "/images/BookCover20.jpg"
-          }
+        
+    {
+        "_id": "Q5CEKnW9o",
+        "title": "My Book Cover",
+        "author": "Tom Banton",
+        "price": 315,
+        "pages": 472,
+        "isbn": "958484848",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet.",
+        "cover": "/images/BookCover1.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "oP6Qrcc9D",
+        "title": "IT",
+        "author": "Stephen King",
+        "price": 450,
+        "pages": 450,
+        "isbn": "545649645",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet.",
+        "cover": "/images/BookCover2.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "i7nTB_NbB",
+        "title": "THE WITCHES",
+        "author": "Roald Dahl",
+        "price": 216,
+        "pages": 554,
+        "isbn": "454125446",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover3.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "ck3wBsI96",
+        "title": "LAST BOAT OUT OF SHANGHAI",
+        "author": "Helen Zia",
+        "price": 326,
+        "pages": 328,
+        "isbn": "23567945",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover4.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "s4YI2ignY",
+        "title": "Fire Starter",
+        "author": "Stephen King",
+        "price": 550,
+        "pages": 314,
+        "isbn": "532365956",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover5.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "YQzHBNNps",
+        "title": "The Silence Of The Lambs",
+        "author": "Thomas Harris",
+        "price": 653,
+        "pages": 392,
+        "isbn": "52368423",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover6.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "Y7gLNc9YC",
+        "title": "The Early India From The Origin To AD 1300",
+        "author": "Romila Thappar",
+        "price": 614,
+        "pages": 356,
+        "isbn": "5632482",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover7.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "jqqsRPox6",
+        "title": "The Past As Present",
+        "author": "Romila Thappar",
+        "price": 512,
+        "pages": 276,
+        "isbn": "53236874",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover8.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "0vJffZomE",
+        "title": "India The History Of World's Largest Democracy After Gandhi",
+        "author": "Ramchandra Guha",
+        "price": 226,
+        "pages": 307,
+        "isbn": "4623148",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover9.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "p5Ghs0hv9",
+        "title": "The Lord Of The Rings",
+        "author": "J.r.r Tolkien",
+        "price": 456,
+        "pages": 841,
+        "isbn": "2314569",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover10.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "JZ7h91hid",
+        "title": "Fantastic Beasts And Where Find Them",
+        "author": "J.K Rowling",
+        "price": 458,
+        "pages": 624,
+        "isbn": "4562318",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover11.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "cTJoLYDVR",
+        "title": "Sachin Tendulkar My Autobiography",
+        "author": "Sachin Tendulkar",
+        "price": 444,
+        "pages": 220,
+        "isbn": "7895641",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover12.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "LrOV59Zgt",
+        "title": "The Lion,The Witch And The Wardrobe",
+        "author": "C.S Lewis",
+        "price": 516,
+        "pages": 448,
+        "isbn": "8956472",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover13.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "PT8J5k0bo",
+        "title": "Matilda",
+        "author": "Roald Dahl",
+        "price": 472,
+        "pages": 812,
+        "isbn": "4569872",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover14.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "fQsrbyyHC",
+        "title": "The Marked Man",
+        "author": "Kristin Helling",
+        "price": 472,
+        "pages": 485,
+        "isbn": "3698214",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover15.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "9gBlwBbgW",
+        "title": "The Hound Of The Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "price": 562,
+        "pages": 456,
+        "isbn": "14785623",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover16.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "2d05f9aBN",
+        "title": "Hamlet",
+        "author": "William Sheakesphere",
+        "price": 563,
+        "pages": 412,
+        "isbn": "7896523",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover17.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "LHgWHv9M_",
+        "title": "Dracula",
+        "author": "Bram Strokers",
+        "price": 456,
+        "pages": 789,
+        "isbn": "5623148",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover18.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "vM79_S7RE",
+        "title": "Greek Myths",
+        "author": "D'Aulaires",
+        "price": 472,
+        "pages": 123,
+        "isbn": "586974",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover19.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "tb5uNPojw",
+        "title": "Girl Unknown",
+        "author": "karen Perry",
+        "price": 472,
+        "pages": 220,
+        "isbn": "15987432",
+        "description": "One of the modern communication sites and social mingling through the virtual medium of the internet is social media. Technology has reduced the distance between people; even if it across the two corners of the planet, individuals can interact still through social media. Social media has now become an important aspect of the human lifestyle.",
+        "cover": "/images/BookCover20.jpg",
+        "__v": 0
+    }
+
     
     ]
   }
